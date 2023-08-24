@@ -36,8 +36,7 @@ function App() {
 //       <header className="App-header">
 //         <img src={logo} className="App-logo" alt="logo" />
 //         <p>
-//           Edit <code>src/App.js</code> and save to reload. 박민준{' '}
-//           <code>대연쿤</code> 동현쿤ㅎㅎ
+//           Edit <code>src/App.js</code> and save to reload.
 //         </p>
 //         <a
 //           className="App-link"
